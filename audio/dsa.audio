@@ -1,0 +1,2277 @@
+{
+    "categories": [
+        {
+            "name": "Allgemein",
+            "scenarios": [
+                {
+                    "music_elements": [
+                        {
+                            "files": [
+                                {
+                                    "source": 2,
+                                    "url": "spotify:album:09HUQdpNg3G08eWxpfgbHe"
+                                }
+                            ],
+                            "icon": "",
+                            "mode": 3,
+                            "name": "Atmosphärenklänge"
+                        }
+                    ],
+                    "name": "Atmosphäre",
+                    "radio_elements": [
+                    ],
+                    "scenarios": [
+                    ],
+                    "sound_elements": [
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sphärenklang",
+            "scenarios": [
+                {
+                    "music_elements": [
+                        {
+                            "files": [
+                                {
+                                    "source": 2,
+                                    "url": "spotify:album:4hX3eywsYi3TdqjGQMBlP9"
+                                }
+                            ],
+                            "icon": "",
+                            "mode": 3,
+                            "name": "Die Dampfenden Dschungel"
+                        }
+                    ],
+                    "name": "Dampfende Dschungel",
+                    "radio_elements": [
+                    ],
+                    "scenarios": [
+                        {
+                            "music_elements": [
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:51bpQJkDXVKfX8qeBuKEHz"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die Dampfenden Dschungel"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:136WtacXe9mwhT7GHBZ3aE"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Idylle Regengebirge"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:45FnYKUbusFk7mq7I8X8l1"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Idylle Waldinseln"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3lBKKiSUNqBhWFKicyctXl"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Idylle Regenwald"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6xqHLjewfQRdH4TcxbHESP"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die Grüne Hölle"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6VJEnpV8xr8DMGd9btQGoL"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Wunder im Kleinen"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:1StHdgvsxXVaB280ScRGK5"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Söldnerarmeisen"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3qmglqNho5ngcJOInm8Guy"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Großwildjagd"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:7jQ0yuUW7HaS8JJZBCqPRB"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Vom Jäger zum Gejagten"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:7y8h7x0IofwCDAiziPMQeV"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Nacht im Dschungel"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:0wvoFE815Uu24MQXdmJ5Dy"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Der mit dem Jaguar Tanzt"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:2xiwJP9bPCoIGPmVkOhLg0"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 0,
+                                    "name": "Regenzeit"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3YrmHDRr02TlHPCzXpAIHT"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Dschungeldorf"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:5Weblmj8uLe8v6ziRgrZUb"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Kamaluq"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:1NIjtsQLkVU0jA1mgfVPvF"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Herrin der Yaq-Hai"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:2jSJp1r4jhuMiXlbH2Q32a"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Visar"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6oY2ydlTqX8hyWDlHGjOb0"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Spinnennetze"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:4xtQdRH6GLLBW5ejWxidZs"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Der Sonnensohn"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:4ulTsSqnXzObffoO8ud0r7"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Warten auf Baccanaq"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:63wfUSehDNVrkZd5dj0Wfu"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die Verhehlte Stadt"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:36qv9ga7pluf5FES4GSbOd"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Kr'Thon'Chh"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:1atAVEgcOfx5KYithfDu80"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Taya am Lagerfeuer"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:5umLXUAUe3NtZcyGBC4Ipz"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Von Schlangen und Affen"
+                                }
+                            ],
+                            "name": "Tracks",
+                            "radio_elements": [
+                            ],
+                            "scenarios": [
+                            ],
+                            "sound_elements": [
+                            ]
+                        }
+                    ],
+                    "sound_elements": [
+                    ]
+                },
+
+                {
+                    "music_elements": [
+                        {
+                            "files": [
+                                {
+                                    "source": 2,
+                                    "url": "spotify:album:7HbaGer6skTYDd2CmXcZkz"
+                                }
+                            ],
+                            "icon": "",
+                            "mode": 3,
+                            "name": "Das Dornenreich"
+                        }
+                    ],
+                    "name": "Dornenreich",
+                    "radio_elements": [
+                    ],
+                    "scenarios": [
+                        {
+                            "music_elements": [
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:7cKhvgOhrwHv9Uku2eOTNB"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Am Fuß der Berge von Palmyramis"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3n3s4dq6GvbbOonAF82Vre"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die Mangrovensümpfe des Yalaiad"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:03d8ilzqV1hvDBpt467uj0"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Ein Bad im Chaluk"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:75KISfSmb3zivLdjoDmyro"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Von den Steppen Goriens"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:2YDzmwxdjoh3NMIDhk5JI0"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die Pyramide des Ras'Lamasshu"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:1xuqCcilZFDAqqzZf9T0Ag"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Ein Basar in Baburin"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:42FyhkvmoP0H0T9hg8OKWJ"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Der Pfauenpalast zu Elburum"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:7E11TCg3sbPCKcHzN73rTR"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Tanz der Majunas"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:5FDdIH5tR22ZWzjphjVhVx"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Im Rosengarten von Zorgan"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6R57iHsS06JIvbKH3FmC5L"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die Karawanserei Das Rote Kamel"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:7E8ZK898yDoo1fs32qM9W3"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Elburums Teehaus Blauer Pfau"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:7GvGuUclsHac7uI3CGeSk2"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 0,
+                                    "name": "Mohnträume"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6pyVNqU2ohYtoh6P6s6Ep2"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 0,
+                                    "name": "Raues Pflaster Llanka"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:2H6KqlCelUZg0RG1pKvfgI"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Eiserne Tiger"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6DKgfkKMtK96SYaPrzbYg2"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Im Mondsilberpalast der Mada Basari"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6DrXv5qcE8BLwtzX3jQzky"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Heimamudim"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:1AxI8g0LsJ1kRpb9oWtVqB"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Unter Qabalya Kultisten"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:2f4Q7sgu5sESqN16fJNRWz"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Scharlatanerei in der Schule des Seienden Scheins"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:5W0TRUMGFxVEgtUM0mO2Fu"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Skorpionsschwestern"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:68EgzT5jDbqcJCwE21jliZ"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Ein Streitwagenrennen auf den Donnersturmfeldern"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:7CTBo4GPWLphrS03ZnfEpI"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Baburischer Stolz"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3CXqkMGY4SIoGr4JIBMSxj"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Geladen beim Hexenzirkel zu Baburin"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:2CdRow6r38d7lRthqN8X0Z"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Aranien"
+                                }
+                            ],
+                            "name": "Tracks",
+                            "radio_elements": [
+                            ],
+                            "scenarios": [
+                            ],
+                            "sound_elements": [
+                            ]
+                        }
+                    ],
+                    "sound_elements": [
+                    ]
+                },
+                {
+                    "music_elements": [
+                        {
+                            "files": [
+                                {
+                                    "source": 2,
+                                    "url": "spotify:album:2IcvmIGJk5uVV4QCr7GJny"
+                                }
+                            ],
+                            "icon": "",
+                            "mode": 3,
+                            "name": "Die Flusslande"
+                        }
+                    ],
+                    "name": "Flusslande",
+                    "radio_elements": [
+                    ],
+                    "scenarios": [
+                        {
+                            "music_elements": [
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:5f7eREULMoLuds8Vno0LJb"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Der Große Fluss"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:2s66XpKXJ6BR3dQKFRDOcp"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Schneebedeckte Gipfel"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:4rwPxsDk3bpyzr5fkE4Y2P"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Ordnung und Gesetz"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:0ESJtZmiGFvcFyiQnPRrfu"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die Wehrhalle des Praios"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:4VpY8jerLQD9ZMMTgUDU1n"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Goldene Sonne"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:0eF4RsIVEciTW4OWW5sIXA"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Der Tempel der Ewigen Flamme"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:16tJ2HtBDWybhhw5V9xsnY"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die zünftige Werkstatt"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:1aOE7PE2M3csNdpoGYfcR3"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Eilenwid über den Wassern"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3AYQY80hGJ8ftukUqGBip9"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "In der Zwergenbinge"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6cvWpdFrurwVRizRtsjnmK"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die Elenviner Ebene"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:4I9rl2wLuWsdFotrSUwKAT"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Das Gratenfelser Becken"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:2ZKODMQtBYLLOTtmBngDX6"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 0,
+                                    "name": "Die Nordgratenfelser Wildnis"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:74NT0qtYK1jdfcCkbqpZsg"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 0,
+                                    "name": "Die Hügellande und der Angbarer See"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:4dcGargW1HGcOkdocJQ2KS"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Feiern auf Art der Hügelzwerge"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3j1LYqp0pFCiNZVZUETIkm"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 0,
+                                    "name": "Flussabwärts!"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:1m6vJ2oru4gZ1FUZ4PLx1N"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Angriff der Flusspiraten"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:7LHJfMYi4ZnbmdnVPGT6Fz"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 0,
+                                    "name": "Der Rote Jast"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:4rU3IJmbI1ErlEnOOBhCh0"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 0,
+                                    "name": "Der Rote Jast (Instrumental)"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6KN96jQDC4pEAGjDVapWC6"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 0,
+                                    "name": "Auf der Walz"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:5yUzulX2VCpU3SiUcg9ADy"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Auf der Walz (Instrumental)"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:5pqfVcsTb0k6qSwNKGi51S"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Zwergenpfade"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:4EPQowtS8NUKyb7yZvGNFt"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die Schatten der Magierkriege"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:0MjgOMuZMMhPZwmB0yUhQD"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Von der Quelle bis zur Mündung"
+                                }
+                            ],
+                            "name": "Tracks",
+                            "radio_elements": [
+                            ],
+                            "scenarios": [
+                            ],
+                            "sound_elements": [
+                            ]
+                        }
+                    ],
+                    "sound_elements": [
+                    ]
+                },
+                {
+                    "music_elements": [
+                        {
+                            "files": [
+                                {
+                                    "source": 2,
+                                    "url": "spotify:album:63sad55tXHjUW5zZR08fAe"
+                                }
+                            ],
+                            "icon": "",
+                            "mode": 3,
+                            "name": "Die Gestade des Gottwals"
+                        }
+                    ],
+                    "name": "Gestade des Gottwals",
+                    "radio_elements": [
+                    ],
+                    "scenarios": [
+                        {
+                            "music_elements": [
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:1TtoprUBRMS4ydZaAZwEVI"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Thorwal das Land der reichlich Mutigen"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:2MT0atkKwX7hOohgKa68aw"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Otta sticht in See"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3ky8W3IbJpLYCAq3gZazDK"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Auf dem Meer"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:2hIDFqUJ9ig8bdjoNlQpOM"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Hranngars Kinder"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:5OsnUY8AiT3PU176tSeQLr"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Thorwalsches Hafentreiben"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6EBC9Th3RhorBCmcBaH9Kg"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Cren-Barrach Kinder des Hochlands"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3VHC3tvqBo0Myh971pHC8R"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Willkommen im Haerad"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:2biZ9SAQn3Vl3a50sKxdbQ"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Das Hochland erblüht"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:13PTXY5sLsyJqzDbR5vBSM"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Sümpfe, Moore, Marschenland"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:4NOeJezN5BK3oLGzFUpGDn"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Einsame Gipfel, verwunschene Täler"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3e2x1E6tJvebTdaQZWP0ph"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die Trollfestung"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6PUTEiH5zP0mr0OQWuLSzR"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die Geister im Nebel"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6gm1RfJu7DOvOKIpGMVwi3"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Ein Sturm zieht auf"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:5mWPRBSJGS9oDhsRZqeTt5"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Gefahren lauern überall"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:32LAJlN6o5a4Cy0LCbfXL9"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Furgrims Rede Skaldensang"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:5jwk1lA3UaqlcKLO9WwT8m"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Furgrims Rede Skaldensang - Instrumental"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:02Z534xmiksb8gHjNIcpQW"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Feiern im Langhaus"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:4FkcNO2VPVHR77VCnVkzah"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Palenkel Wir treffen uns im Schlamm!"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:0Gh1Rs7WkQq5lYIaFS8LZp"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Treueschwur"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:32c5QdIDYY7F1W30UpmFRV"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die Macht der alten Götter"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3t77sSQGv0kZGg0zlBSDJD"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Swafnir, der weiße Wal"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3ErqrcHfkKzxMaOq1r96GT"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Natûro-Gon und seine Kinder"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:2U91WpQC2pZU0vXRAwcINf"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Verkünder des Schicksals"
+                                }
+                            ],
+                            "name": "Tracks",
+                            "radio_elements": [
+                            ],
+                            "scenarios": [
+                            ],
+                            "sound_elements": [
+                            ]
+                        }
+                    ],
+                    "sound_elements": [
+                    ]
+                },
+                {
+                    "music_elements": [
+                        {
+                            "files": [
+                                {
+                                    "source": 2,
+                                    "url": "spotify:album:5IKJkdsDfDT8RX22Sbjud3"
+                                }
+                            ],
+                            "icon": "",
+                            "mode": 3,
+                            "name": "Die Siebenwindküste"
+                        },
+                        {
+                            "files": [
+                                {
+                                    "source": 2,
+                                    "url": "spotify:album:3CEH5gaAFlf6ZIww4TitS6"
+                                }
+                            ],
+                            "icon": "",
+                            "mode": 3,
+                            "name": "Havena Versunkene Geheimnisse"
+                        }
+                    ],
+                    "name": "Siebenwindküste",
+                    "radio_elements": [
+                    ],
+                    "scenarios": [
+                        {
+                            "music_elements": [
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:1TQ52OlIG730B81WWjKR8J"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Albernia die Weiße"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3j86tDmbzlrmOXeo5bufOU"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Freiheit"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:7uUNsCoxSy8A1NSmOMUQd7"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Sturmgestade"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3D5v7qzOfoAbByGJez5bKa"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Erzlose Lande"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:4Z5pQNFugh9EGKgtKnwylo"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Wasserholz"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:4YSSXIq4NiIs63brOtMD7s"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Ziegenherz"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3cZZ8VdR2grzX0psBNFTJn"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Windwacht"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:0kxKxmGtnk21e2XIQf0oL9"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Nie verloren"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:4WFcSQPDUYbWZdsPqA5gaC"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Havena, die alte Havenstadt"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6QBlfet5xO8iGyPK0H9tSN"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Tanz in den Gassen"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3o8B8pkMmGUNxD7cvpIHNi"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Wir haben Bier"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:5N0rxIbQNKByfb1QmATjyZ"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Wir haben Bier - Instrumental"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:72xNhnoFVx9DJnvTNwlW9x"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Havenas Glockenspiel"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:54ogn6T55yxI3zRTh2HTSu"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die Toteninsel"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:2QApc0gpHu17AZbRdRBxhI"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Ruinen im Nebel"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6mcOgCCbl8OrFest0hlkwT"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die Weide"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:0vLBBGelCbnpc9m581EId3"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Der Farindel"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3JhPUCT7KoK7gvywG9URl2"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Der rote Wald"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6WtLuLSf0iVYccM3PtCt7B"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Gruß des Versunkenen"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:7r4IxRU4OzDtIbzas0Cjp0"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Seemanns Todesstund"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:0h6ikoT3GvYHOTTN1ezCfs"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Westwinddrachen"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:2oFJ3cU1E4SVoAletno8Bw"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Das Feenschloss"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3IiEKIDkdYPj6GgefRV4JY"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Orkendorf"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:0VaRK6h0JR5wXKmvACKPp4"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Orkendorf - Instrumental"
+                                }
+                            ],
+                            "name": "Siebenwindküste: Tracks",
+                            "radio_elements": [
+                            ],
+                            "scenarios": [
+                            ],
+                            "sound_elements": [
+                            ]
+                        },
+                        {
+                            "music_elements": [
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6SdUbujdSzc8Pt4N8doUEq"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Der Hafen von Havena"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:4NdoZKJ1bGu9bx99DlzCLa"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Der Tempel des Launenhaften"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:1nb6YpZ6sTl3vybyBPD5Zd"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die Fürsten Fanfare"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3dF29UwwfYg1CLtyXgv4YM"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die Pracht im Fürstenpalast"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3PS59P5CQIlitJIs3oEFIZ"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Am Hof des jungen Fürsten"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:5LDCzIosCRQunyEz8u0vTL"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Leinen los!"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:0yFCipy2yzeZgK8ZSn55fy"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Abschied am Hafen"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:1ZaU6Q5MAO1iMYd2h5eEeJ"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die Krakeninsel"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:1KJsOKxKlPb8PHKQ2wEtuh"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Verfolgungsjagd im Nebel"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:5hYe3AgqejBsy31BgW3vr8"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Im Esche und Kork"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6a7NfZcrX0DZWr7HTpZUZ8"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "In den Kneipen Havenas"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:7zqC1I0Kai7QH54XSeVwkU"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Das Wachsfigurenkabinett"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:7pBoRmYtqbEQcWWrGBvYuh"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die Boroninsel"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:7fIYnVdpqcOlkJuurr9BUe"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Schwermut und Sehnsucht"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:2yTeoUb9D0kMqFoaVyiRwx"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die Werkstatt"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6gxb4g8vBzyJPp1uw81jF7"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die Tauchexpedition"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6LOQGuiyhPVuvGiXY0ppx9"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Unheil aus der Unterstadt"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:1dTkLkQVuxALf8Wao93JNC"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Auf Schmugglerpfaden"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:4oBg1bJSIGHzuLFuFe2AH4"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Irrlichter im Nebel"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:7kMLTQ8DoYOPN0pLutDn6S"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die Gefangenen der Moorburg"
+                                }
+                            ],
+                            "name": "Havena",
+                            "radio_elements": [
+                            ],
+                            "scenarios": [
+                            ],
+                            "sound_elements": [
+                            ]
+                        }
+                    ],
+                    "sound_elements": [
+                    ]
+                },
+                {
+                    "music_elements": [
+                        {
+                            "files": [
+                                {
+                                    "source": 2,
+                                    "url": "spotify:album:6bNTAa9CqIDv3pycA2eH8f"
+                                }
+                            ],
+                            "icon": "",
+                            "mode": 3,
+                            "name": "Die streitenden Königreiche"
+                        }
+                    ],
+                    "name": "Streitende Königreiche",
+                    "radio_elements": [
+                    ],
+                    "scenarios": [
+                        {
+                            "music_elements": [
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3P7R2S5tfmaLLqJZzVIYDt"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Des Königs Gnade und der Königin Segen"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:1p8Zrs01jdeQM48vq3pItW"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die nostrische Hochzeit - Instrumental"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:72PXOwb26G0rm8FqAmGsYa"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die nostrische Hochzeit"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:5y1QeU0BHt3T9T4Zjf7MPp"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Geister des Waldes"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6x4WztwAacD5vQFwt7pyhU"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Der Hexenfluch von Halleru"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:0bcXUPmncnW2rogCIKxAOC"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Vollmondnacht"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6kOIezD0AwIRN5obzUZVIE"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Der Grabhügel"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:1b7FuiGqTSuV6c7gu7inMM"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Ingval, Tommel und Thuransee"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6tDR6spdQe7BSuTisHdioK"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Weites Land und lichte Wälder"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:02LJA7oWXENBQ09azPENcB"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Der verbotene Wald"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:4YEMRLRkGMcqdfAFqxsREl"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Orks in Teshkalien!"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:4lHGZsaIZeUM4GNLV2E3II"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Kampf um die Grenzlande"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6OsF3Vvp0yQ1Vgj83aYBRa"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Sumus Leib"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6ZsVx1mvhJAbB9RQeJb1jw"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Silber auf Blau (nostrisches Wiegenlied)"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:33uPF5We4KBqyE8krHmJYZ"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Der Rat der Sumen"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:3WN4p0rxskH8rA3dUDskFo"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Yolande und Wendelmir"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:14OaNtmM6wGAz4kr03IvEv"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Die streitenden Königreiche"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:1EEZ3ztzfBc8z17CZTp2LI"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Ode an die Tapferen"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:296A7MDFkxM0AXUxCSpOBE"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Nostria, steh auf!"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:4o9ecXxr3U8txOJirKkD4a"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Steinkreise"
+                                }
+                            ],
+                            "name": "Tracks",
+                            "radio_elements": [
+                            ],
+                            "scenarios": [
+                            ],
+                            "sound_elements": [
+                            ]
+                        }
+                    ],
+                    "sound_elements": [
+                    ]
+                },
+                {
+                    "music_elements": [
+                        {
+                            "files": [
+                                {
+                                    "source": 2,
+                                    "url": "spotify:album:29pqpfi1CAkDUjKuojJx8G"
+                                }
+                            ],
+                            "icon": "",
+                            "mode": 3,
+                            "name": "Wege der Vereinigungen"
+                        }
+                    ],
+                    "name": "Wege der Vereinigungen",
+                    "radio_elements": [
+                    ],
+                    "scenarios": [
+                        {
+                            "music_elements": [
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:0LvXV1ClqrXFdGmQjtP0bi"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Tulamidischer Rahjatempel"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6yTmPzhyLVBzb2pDqSJlRv"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Mittelreichischer Rahjatempel"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:1i6BCyYDvXRYNP0cBRkpS5"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Horasischer Rahjatempel"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:5AJGDvHFwn0ZEj002wFjN8"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Tanz der sieben Schleier"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:7x87QGUmUXkfbSYUzPexWK"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Fest der Freuden"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:7cKMuH8U6cLwHSFIafuQu5"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Novadischer Harem"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6cMqXGoNZphVrrZi3oGC5A"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Rahjasutra"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:1zngcYpWIdb8uqSEFUbyCL"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Ekstatische Trommeln"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:664JVKbwCMdyCjzH9pebSz"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 0,
+                                    "name": "Schwüle Nächte in Al'Anfa"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:35nxs9daqVkWkAyunSOIDS"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Hexenreigen"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:7sKGEEiBQ5t89xOfT5yAA3"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 0,
+                                    "name": "Belhanka"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:1eB6sPkHdnvfAc9cvAAMl0"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Der Akt: Vorspiel"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:4DR6UnXePu7YrmRScEeyUh"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Der Akt: Hauptteil"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:35lHxYkZaEdyX25GK1k2DS"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Der Akt: Orgasmus"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:5ZTHRsJJWKjdSslTJ2SRiz"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Mondsilberne Nächte"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:75WQhePF5KZ9RmjirRXRI9"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Billiges Bordell"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:0vxAjslerXfMZYvh4FkhNh"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Edles Bordell"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:66lnGGhYf909XLNWF0G8AJ"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Romantische Minne"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:4dIw6aQHf0KBGFrFpqXR1S"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Rahjuna"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:6jikTH64wWXOTtkw1OHG8f"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Wege der Vereinigungen Prom"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:17MAoWRly6R54te1e4UbUd"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Ekstatische Trommeln Levthan"
+                                },
+                                {
+                                    "files": [
+                                        {
+                                            "source": 2,
+                                            "url": "spotify:track:7K6FqSx0iUPxpExoJheWXv"
+                                        }
+                                    ],
+                                    "icon": "",
+                                    "mode": 3,
+                                    "name": "Billiges Bordell ohne Ambiente"
+                                }
+                            ],
+                            "name": "Tracks",
+                            "radio_elements": [
+                            ],
+                            "scenarios": [
+                            ],
+                            "sound_elements": [
+                            ]
+                        }
+                    ],
+                    "sound_elements": [
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Abenteuer",
+            "scenarios": [
+                {
+                    "music_elements": [
+                        {
+                            "files": [
+                                {
+                                    "source": 2,
+                                    "url": "spotify:album:1yqbW1MJdEepJ2PP1ylP6a"
+                                }
+                            ],
+                            "icon": "",
+                            "mode": 3,
+                            "name": "Schleiertanz und Verfall"
+                        }
+                    ],
+                    "name": "Schleiertanz und Verfall",
+                    "radio_elements": [
+                    ],
+                    "scenarios": [
+                    ],
+                    "sound_elements": [
+                    ]
+                }
+            ]
+        }
+    ],
+    "name": "DSA",
+    "version": 4
+}

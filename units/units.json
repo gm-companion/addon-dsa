@@ -1,0 +1,339 @@
+{
+  "categories": [
+    {
+      "name": "Fläche",
+      "units": [
+        {
+          "name": "Land",
+          "value": 4000000
+        },
+        {
+          "name": "Rechtmeile",
+          "value": 1000000
+        },
+        {
+          "name": "Acker",
+          "value": 10000
+        },
+        {
+          "name": "(gorischer) Morgen",
+          "value": 3000
+        },
+        {
+          "name": "Platz",
+          "value": 625
+        },
+        {
+          "name": "Rechtschritt",
+          "value": 1
+        },
+        {
+          "name": "Rechtspann",
+          "value": 0.004
+        }
+      ]
+    },
+    {
+      "name": "Geld",
+      "units": [
+        {
+          "name": "Dukaten",
+          "value": 1000
+        },
+        {
+          "name": "Silbertaler",
+          "value": 100
+        },
+        {
+          "name": "Heller",
+          "value": 10
+        },
+        {
+          "name": "Kreuzer",
+          "value": 1
+        },
+        {
+          "name": "Nickel",
+          "value": 2
+        },
+        {
+          "name": "Puniner Dublone",
+          "value": 800
+        },
+        {
+          "name": "Balihoer Rad",
+          "value": 10000
+        },
+        {
+          "name": "Eslamo",
+          "value": 10000
+        },
+        {
+          "name": "Gulden (Paavi)",
+          "value": 500
+        },
+        {
+          "name": "Batzen (Bornland)",
+          "value": 1000
+        },
+        {
+          "name": "Silbergroschen (Bornland)",
+          "value": 100
+        },
+        {
+          "name": "Deut (Bornland)",
+          "value": 10
+        },
+        {
+          "name": "Witten (Vallusa)",
+          "value": 1000
+        },
+        {
+          "name": "Stüber (Vallusa)",
+          "value": 100
+        },
+        {
+          "name": "Findrich",
+          "value": 10
+        },
+        {
+          "name": "Nostrische Krone",
+          "value": 500
+        },
+        {
+          "name": "Andrataler",
+          "value": 500
+        },
+        {
+          "name": "Kusliker Rad / Horasdor",
+          "value": 20000
+        },
+        {
+          "name": "Krone (Horasreich)",
+          "value": 1000
+        },
+        {
+          "name": "Arivorer Silberdukaten",
+          "value": 500
+        },
+        {
+          "name": "Zehnt (Horasreich)",
+          "value": 100
+        },
+        {
+          "name": "Schilling (Horasreich)",
+          "value": 10
+        },
+        {
+          "name": "Dinar (Aranien)",
+          "value": 1000
+        },
+        {
+          "name": "Schekel (Aranien)",
+          "value": 100
+        },
+        {
+          "name": "Hallah (Aranien)",
+          "value": 10
+        },
+        {
+          "name": "Kurush / Rosenkreuzer (Aranien)",
+          "value": 1
+        },
+        {
+          "name": "Marawedi (Tulamidenlande)",
+          "value": 2000
+        },
+        {
+          "name": "Zechine (Tulamidenlande)",
+          "value": 200
+        },
+        {
+          "name": "Muwlat (Tulamidenlande)",
+          "value": 5
+        },
+        {
+          "name": "Dublone (Al'Anfa)",
+          "value": 2000
+        },
+        {
+          "name": "Oreal / Schilling (Al'Anfa)",
+          "value": 100
+        },
+        {
+          "name": "Kleiner Oreal (Al'Anfa)",
+          "value": 50
+        },
+        {
+          "name": "Dirham (Al'Anfa)",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Gewicht",
+      "units": [
+        {
+          "name": "Quader",
+          "value": 1000000
+        },
+        {
+          "name": "Sack",
+          "value": 100000
+        },
+        {
+          "name": "Stein",
+          "value": 1000
+        },
+        {
+          "name": "Unze",
+          "value": 25
+        },
+        {
+          "name": "Skrupel",
+          "value": 1
+        },
+        {
+          "name": "Karat",
+          "value": 0.2
+        },
+        {
+          "name": "Gran",
+          "value": 0.001
+        },
+        {
+          "name": "Rommilyser Bündel",
+          "value": 6200
+        },
+        {
+          "name": "Brok",
+          "value": 6500
+        },
+        {
+          "name": "Boruk",
+          "value": 125
+        },
+        {
+          "name": "Brox",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "name": "Länge",
+      "units": [
+        {
+          "name": "Meile",
+          "value": 1000
+        },
+        {
+          "name": "Schritt",
+          "value": 1
+        },
+        {
+          "name": "Spann",
+          "value": 0.2
+        },
+        {
+          "name": "Finger",
+          "value": 0.02
+        },
+        {
+          "name": "Halbfinger",
+          "value": 0.01
+        },
+        {
+          "name": "Kaisersarm",
+          "value": 0.8
+        },
+        {
+          "name": "Faden",
+          "value": 2
+        },
+        {
+          "name": "Lot",
+          "value": 10
+        },
+        {
+          "name": "Nivesische Tagesreise",
+          "value": 12000
+        },
+        {
+          "name": "Novadisches Baryd",
+          "value": 15000
+        },
+        {
+          "name": "Pakasch",
+          "value": 25000
+        },
+        {
+          "name": "Dorgrosch",
+          "value": 1180
+        },
+        {
+          "name": "Dumad",
+          "value": 74
+        },
+        {
+          "name": "Drasch",
+          "value": 6.7
+        },
+        {
+          "name": "Drumod",
+          "value": 1.7
+        },
+        {
+          "name": "Drom",
+          "value": 0.28
+        },
+        {
+          "name": "Rim",
+          "value": 0.004
+        }
+      ]
+    },
+    {
+      "name": "Volumen",
+      "units": [
+        {
+          "name": "Raumschritt",
+          "value": 1
+        },
+        {
+          "name": "Ox",
+          "value": 0.96
+        },
+        {
+          "name": "Fass",
+          "value": 0.08
+        },
+        {
+          "name": "Urn / Hohlspann",
+          "value": 0.008
+        },
+        {
+          "name": "Maß",
+          "value": 0.0008
+        },
+        {
+          "name": "Schrank / Viertelmaß",
+          "value": 0.0002
+        },
+        {
+          "name": "Flux / Hohlfinger",
+          "value": 0.000008
+        },
+        {
+          "name": "Baroscht",
+          "value": 0.0008
+        },
+        {
+          "name": "Baroschtrom",
+          "value": 0.0608
+        }
+      ]
+    }
+  ],
+  "name": "DSA",
+  "version": 2
+}
